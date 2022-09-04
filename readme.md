@@ -1,10 +1,10 @@
-## Hey <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="3%">, I'm Devitrax!
+## Hey <img src="./resources/images/wave.gif" width="3%">, I'm Devitrax!
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱 beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
+<img align="right" alt="GIF" src="./resources/images/techstack.gif" width="360px"/>
   
 ### 🧐 More About Me:
 
