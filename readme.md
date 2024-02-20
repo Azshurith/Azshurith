@@ -32,8 +32,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <a href="https://github.com/Invoke-Hub" target="_blank"> 
   <img alt="invoker" src="https://github.com/Invoke-Hub/Invoker/blob/main/src/modules/main/resources/LogoText.png?raw=true" height="68" align="left"> 
 </a>
-<a href="https://github.com/Azshurith/MIR4-Domination-Server" target="_blank"> 
-  <img alt="domination" src="https://github.com/Azshurith/MIR4-Domination-Server/raw/main/DominationLogo.png?raw=true" height="68" align="left"> 
+<a href="https://github.com/Azshurith/MIR4-Domination-v2" target="_blank"> 
+  <img alt="domination" src="https://github.com/Azshurith/MIR4-Domination-v2/raw/main/src/modules/core/resources/images/DominationLogo.png?raw=true" height="68" align="left"> 
 </a>
 
 </br>
